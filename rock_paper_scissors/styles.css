@@ -1,0 +1,28 @@
+h1 {
+  margin-top: 100px;
+  text-align: center;
+}
+
+
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  width: 60%;
+
+}
+
+tr {
+  text-align: center;
+}
+
+.tableLeft {
+  border-right: 1px solid black;
+
+}
+
+
+.results {
+  text-align: center;
+}
