@@ -1,0 +1,66 @@
+nav {
+  border-bottom: 1px solid grey;
+  box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28)
+  margin-top: -20px;
+
+}
+
+
+.logo {
+  display: inline-block;
+  width: 110px;
+  margin: 10px 0 0 10px;
+  ;
+}
+
+.search-bar {
+  display: inline-block;
+  position: absolute;
+  margin: 28px 0 0 0;
+}
+
+
+
+.search {
+  width: 300px;
+  height: 20px;
+  border: 1px solid #4390211;
+  border-radius: 10px;
+
+  margin: 0px 0px 0px 30px;
+
+}
+
+.result-cats {
+  margin: 0px 0px 0px 115px;
+}
+
+ul {
+  list-style-type: none;
+
+}
+
+li {
+  display: inline;
+  padding: 0 10px 0 0;
+}
+
+
+.results-col {
+  margin: 30px 115px 10px 150px;
+}
+
+.results {
+  margin-bottom: 40px;
+  width: 390px;
+}
+
+.result-header {
+  font-size: 18px;
+  color: blue;
+}
+
+.results-link {
+  font-size: 12px;
+  color: green;
+}
